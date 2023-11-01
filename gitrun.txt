@@ -1,0 +1,11 @@
+echo "# codecamp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M tmp
+git remote add origin https://github.com/Shakib117/codecamp.git
+git push -u origin tmp
+--------------------------------------------------------------
+git remote add origin https://github.com/Shakib117/codecamp.git
+git branch -M tmp
+git push -u origin tmp
