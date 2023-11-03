@@ -1,3 +1,13 @@
-.nav_text_color{
-    text-decoration-color: black;
+.header_src{
+    background-color: white;
+    width: 278px;
+    max-width: 100%;
+    padding-left: 1rem;
+    border-radius: 0px 15px 0px 15px;
+}
+.search_bar{
+    border-style:none;
+    outline: none;
+}.search_btn{
+    border-radius: 0px 15px 0px 0px;
 }
