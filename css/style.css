@@ -1,3 +1,7 @@
+h3{
+    margin-top: 1rem;
+}
+
 .header_src{
     background-color: white;
     width: 278px;
@@ -10,4 +14,13 @@
     outline: none;
 }.search_btn{
     border-radius: 0px 15px 0px 0px;
+}.li_des{
+    list-style: none;
+}.li_a{
+    outline: none;
+    text-decoration: none;
+    color: black;
+}.li_a:hover{
+    color: aliceblue;
+    background-color: black;
 }
