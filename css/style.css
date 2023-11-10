@@ -2,7 +2,9 @@ h3{
     margin-top: 1rem;
 }
 
-.header_src{
+.bg_nav{
+    background-color: rgb(132,205,238);
+}.header_src{
     background-color: white;
     width: 278px;
     max-width: 100%;
